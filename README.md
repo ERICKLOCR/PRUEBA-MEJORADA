@@ -141,7 +141,8 @@ SoC documentation in [.pdf    (PRUEBA CARPETA/Diagrama .pdf)]  formats.
 
 ## PRUEB DE DOC
 
-SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
+SoC documentation in [.pdf]( Diagrama_.pdf) formats
+
 
 
 
