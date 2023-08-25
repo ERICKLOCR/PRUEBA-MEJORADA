@@ -113,7 +113,7 @@ ___
 
 ## PRUEB DE IMAG
 
-![SOC top](docs/doxygen/pics/soc_top_v5.png)
+![SOC top](PRUEBA CARPETA/3CARP/PRU.png)
 
 
 ## PRUEB DE DOC
