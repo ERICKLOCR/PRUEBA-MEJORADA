@@ -116,6 +116,36 @@ ___
 ![SOC top](PRUEBA-MEJORADA/PRUEBA CARPETA/3CARP/PRU.png)
 
 
+
+
 ## PRUEB DE DOC
 
 SoC documentation in [.pdf    (PRUEBA CARPETA/Diagrama .pdf)]  formats.
+
+
+
+---
+
+
+## PRUEB DE LINKKSSS
+-REDES
+
+[YOUTUBE](https://www.youtube.com/watch?v=4fezP875xOQ)
+
+
+
+## PRUEB DE IMAG
+
+![SOC top](PRUEBA_CARPETA/3CARP/PRU.png)
+
+
+## PRUEB DE DOC
+
+SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
+
+
+
+
+
+
+
