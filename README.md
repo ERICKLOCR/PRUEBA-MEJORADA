@@ -141,7 +141,7 @@ SoC documentation in [.pdf    (PRUEBA CARPETA/Diagrama .pdf)]  formats.
 
 ## PRUEB DE DOC
 
-SoC documentation in [.pdf](Diagrama.pdf) formats
+SoC documentation in [.pdf](D.pdf) formats
 
 
 
