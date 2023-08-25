@@ -136,7 +136,7 @@ SoC documentation in [.pdf    (PRUEBA CARPETA/Diagrama .pdf)]  formats.
 
 ## PRUEB DE IMAG
 
-![SOC top](PRUEBA_CARPETA/3CARP/PRU.png)
+![SOC top](A/PRU.png)
 
 
 ## PRUEB DE DOC
